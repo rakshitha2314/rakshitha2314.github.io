@@ -6,8 +6,6 @@ main:
     url: /publications/
   - title: "Teaching"
     url: /teaching/
-  - title: "Posts"
-    url: /posts/
   - title: "CV"
     url: /assets/cv/cv.pdf
   - title: "Posts"

@@ -2,10 +2,18 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Publications"
+    url: /publications/
+  - title: "Teaching"
+    url: /teaching/
   - title: "Posts"
     url: /posts/
-  - title: "Source Code"
-    url: https://github.com/limyunkai19/minimal-mistakes-jekyll
+  - title: "CV"
+    url: /assets/cv/cv.pdf
+  - title: "Posts"
+    url: /posts/
+  - title: "Miscellaneous"
+    url: /miscellaneous/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"

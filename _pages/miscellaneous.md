@@ -1,0 +1,5 @@
+---
+permalink: /miscellaneous/
+title: "Miscellaneous"
+
+---

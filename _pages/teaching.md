@@ -7,8 +7,8 @@ title: "Teaching"
   <!-- Project 1 -->
 <div class="project">
     <h3 class="project-title">
-      Teaching Assistant, <a href="" target="_blank">MTL103 - Optimization Methods and Applications</a> 
-      <br>[Semester-II, 2024-25]
+      Teaching Assistant, <a href="https://maths.iitd.ac.in/drupal/courses/mtl103" target="_blank">MTL103 - Optimization Methods and Applications</a> 
+      <br>[Spring, 2024-25]
     </h3>
     <p class="contributors"><strong>Professor.</strong> Ashutosh Rai</p>
   </div>
@@ -18,7 +18,7 @@ title: "Teaching"
 <div class="project">
     <h3 class="project-title">
       Teaching Assistant, <a href="https://sites.google.com/view/dalujacob/teaching/analysis-and-design-of-algorithms?authuser=0" target="_blank">MTL342 - Analysis and Design of Algorithms</a> 
-      <br>[Semester-I, 2024-25]
+      <br>[Fall, 2024-25]
     </h3>
     <p class="contributors"><strong>Professor.</strong> Dalu Jacob</p>
   </div>
